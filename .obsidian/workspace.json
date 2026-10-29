@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64f7268a99b097b2",
+        "id": "36a4488e6dbfffc0",
         "type": "tabs",
         "children": [
           {
-            "id": "a318cdbf39b69c2c",
+            "id": "1a97a40e7b19990b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Define System Design.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Define System Design"
             }
           }
         ]
@@ -193,9 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a318cdbf39b69c2c",
+  "active": "1a97a40e7b19990b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Welcome.md"
+    "Welcome.md",
+    "Define System Design.md",
+    "MODULE-1 Fundamentals",
+    "Untitled.canvas"
   ]
 }
