@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Define System Design.md",
+                "file": "MODULE-1 Fundamentals/Define System Design.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a97a40e7b19990b",
+  "active": "fa05c9f7cc0453f1",
   "lastOpenFiles": [
     "Welcome.md",
-    "Define System Design.md",
+    "MODULE-1 Fundamentals/Define System Design.md",
     "MODULE-1 Fundamentals",
     "Untitled.canvas"
   ]
